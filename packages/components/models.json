@@ -817,6 +817,10 @@
                 {
                     "label": "allam-2-7b",
                     "name": "allam-2-7b"
+                },
+                {
+                    "label": "moonshotai/kimi-k2-instruct",
+                    "name": "moonshotai/kimi-k2-instruct"
                 }
             ]
         },
